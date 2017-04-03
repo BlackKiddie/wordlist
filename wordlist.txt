@@ -559,7 +559,6 @@ password
 qwerty
 12345
 dragon
-Rose7312
 pussy
 baseball
 football
@@ -901,8 +900,6 @@ Robert
 Rose12345
 Rose
 Rose
-Rose12345
-Rose7312
 Thomas
 Hockey
 Ranger
